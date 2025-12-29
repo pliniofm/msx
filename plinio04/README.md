@@ -80,12 +80,6 @@ No UI. Just choose a number between 1 to 12.
 
 <img src="screenshots/music.png">
 
-## Periodic table
-
-File: [TABEPERI.BAS](files/TABEPERI.BAS)
-
-<img src="screenshots/tabeperi.png">
-
 ## Misc files
 
 File:
